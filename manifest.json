@@ -1,0 +1,20 @@
+{
+    "name": "Reverse Game",
+    "short_name": "Reverse Game",
+    "icons": [
+      {
+        "src": "/reverse192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/reverse.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/",
+    "display": "fullscreen",
+    "background_color": "#324759",
+    "theme_color": "#324759"
+  }
